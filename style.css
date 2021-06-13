@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0;
+    }
+    
+
+
+ 
+
+
+
+
+
+
+
+    nav{
+    
+    
+    
+    }
+    
+    
+    ul{
+    
+    
+    }
+    
+    
+    
+    ul li{
+        list-style: none;
+        display: inline-block;
+        float: left;
+        line-height: 90px;
+        }
+        
+        ul li a{
+         text-decoration:none;
+         font-size: 30px;
+         font-family:'Roboto', sans-serif; 
+         color: black;
+         padding: 0 20px;
+        }
+        ul li a:hover{
+            color: gray;
+        }
+
+        body{
+            background-image: url(simple.png) ;
+            width: 1500px;
+            height: 2000px;
+        }
+
+  #playlist{
+
+
+
+
+
+
+
+
+
+  }
+
+
+
+
+ #playlist li a{
+
+color: gray;
+
+
+
+
+
+
+    
+  }
+
+
+#playlist.current-song a{
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
